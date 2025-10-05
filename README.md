@@ -1,0 +1,2 @@
+# Previous-Year-Question-Paper-Online-Notes-Sharing-Webapp-
+This is Previous year question paper using webapp                                                                                                              INPoRTANT - 1)Extract This Zip  2)Run in Vs Code 3) Install important extention 4) Install  Liveserver extentionan run in vs code 5) ZIP have database data import in Xampp 6) finaly run 
